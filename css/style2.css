@@ -8,6 +8,7 @@
 #logo {
     width: 200px; 
     padding-top: 75px;
+    margin-left: 35px;
 }
 
 h1 {
@@ -72,3 +73,15 @@ h3{
     font-size: 415x;
     font-weight: bold;
 }
+
+nav,main,footer{
+    margin-left: 35px;
+    margin-right: 35px;
+}
+
+
+
+
+
+
+
