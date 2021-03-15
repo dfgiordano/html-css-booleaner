@@ -1,0 +1,17 @@
+.intestazione {
+    height: 100px;
+}
+
+.sottotitolo {
+    color: dimgray;
+    font-size: 20px;;
+}
+
+#autore {
+    color: rgb(0,255,255);
+}
+
+.sfondo {
+    background-color: goldenrod;
+}
+
