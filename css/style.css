@@ -1,5 +1,6 @@
 .intestazione {
     height: 100px;
+    background-image: image("img/pattern.pngs");
 }
 
 .sottotitolo {
@@ -12,6 +13,34 @@
 }
 
 .sfondo {
-    background-color: goldenrod;
+    background-color: yellow;
 }
 
+.lista {
+    text-align: left;
+}
+
+.tabella {
+    width: 100%;
+    height: 300px;
+    text-align: left;
+}
+
+
+#intestazione-tabella{
+    background-color: rgba(30,144,255,0.9);
+    color: white;;
+}
+.sfondo-tabella {
+    background-color: rgba(30,144,255,0.5);
+}
+
+.informazioni {
+    color: dimgray;
+    font-weight: bold;
+    font-size: px;;
+}
+
+.image1{
+    background-image: image("img/monitor.jpg");
+}
