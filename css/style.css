@@ -1,11 +1,22 @@
 .intestazione {
-    height: 100px;
-    background-image: image("img/pattern.pngs");
+    background-image: url("../img/pattern.png");
+    background-size: auto;
+    height: 160px;
+    background-color: rgb(27, 113, 211);
+}
+
+#logo {
+    width: 200px; 
+}
+
+h1 {
+    font-family: nunito;
+    font-weight: bold;
 }
 
 .sottotitolo {
     color: dimgray;
-    font-size: 20px;;
+    font-size: 20px;
 }
 
 #autore {
@@ -38,9 +49,26 @@
 .informazioni {
     color: dimgray;
     font-weight: bold;
-    font-size: px;;
+    font-size: 20px;
 }
 
-.image1{
-    background-image: image("img/monitor.jpg");
+.immagine1{
+    background-image: url("../img/monitor.jpg");
+    background-size: cover;
+    height: 250px;
+    width: 250px;
 }
+
+.immagine2{
+    background-image: url("../img/graph.jpg");
+    background-size: cover;
+    height: 250px;
+    width: 250px;
+}
+
+h3{
+    color: white;
+    font-size: 415x;
+    font-weight: bold;
+}
+
